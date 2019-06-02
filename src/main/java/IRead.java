@@ -1,0 +1,4 @@
+interface IRead
+{
+    void Read();
+}

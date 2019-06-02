@@ -1,0 +1,4 @@
+interface ITranslate
+{
+    void Translate();
+}
